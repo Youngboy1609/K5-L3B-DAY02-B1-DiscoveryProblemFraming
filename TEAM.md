@@ -4,18 +4,17 @@
 
 ## Thông tin nhóm
 
-- Tên nhóm:
-- Candidate problem nhóm chọn (1 câu):
+- Tên nhóm:B1
+- Candidate problem nhóm chọn (1 câu): Sinh viên mất thời gian xác định nội dung và tài liệu cần học từ nhiều nguồn
 - Quyết định cuối (Go / Not Yet / No-Go):
 
 ## Thành viên
 
 | STT | Họ và tên | MSSV | Vai trò trong nhóm | Tài khoản GitHub |
 |---:|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
+| 1 | Hồ Trọng Nghĩa|2A202603729|Nhóm trưởng |Youngboy1609 |
+| 2 | Nguyễn Minh Quân |2A202603794|Thành viên | nmqdhtb|
+| 3 |Vũ Bá Tùng Lâm |2A202603775|Thành viên | lamvu-dev|
 
 Không ghi email hay số điện thoại vào bảng này, vì repo có thể để public.
 

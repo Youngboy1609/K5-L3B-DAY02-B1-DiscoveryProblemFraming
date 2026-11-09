@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1030" viewBox="0 0 1600 1030" role="img" aria-labelledby="title desc">
+  <title id="title">Quy trình xác định nội dung và tài liệu cần học</title>
+  <desc id="desc">So sánh quy trình hiện tại với pilot checklist không dùng AI. Các mốc thời gian là ước lượng và được ghi rõ trong chú thích.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#64748b"/></marker>
+    <style>
+      .bg { fill:#f3f6fb; }
+      .panel { fill:#ffffff; stroke:#d9e1ec; stroke-width:2; }
+      .title { font:700 34px Arial,sans-serif; fill:#10243e; }
+      .subtitle { font:400 18px Arial,sans-serif; fill:#52647a; }
+      .lane { font:700 22px Arial,sans-serif; fill:#183454; }
+      .tag { font:700 14px Arial,sans-serif; fill:#47617f; letter-spacing:1px; }
+      .box { fill:#ffffff; stroke:#b9c7d8; stroke-width:2; rx:14; }
+      .boxFuture { fill:#f5fbf8; stroke:#82b7a0; stroke-width:2; rx:14; }
+      .bottleneck { fill:#fff5f2; stroke:#e69a85; stroke-width:2.5; rx:14; }
+      .num { font:700 14px Arial,sans-serif; fill:#ffffff; }
+      .numCircle { fill:#37618d; }
+      .numCircleBad { fill:#c4553d; }
+      .step { font:600 16px Arial,sans-serif; fill:#20364f; text-anchor:middle; }
+      .stepSmall { font:400 14px Arial,sans-serif; fill:#52647a; text-anchor:middle; }
+      .warn { font:700 13px Arial,sans-serif; fill:#a33c2b; text-anchor:middle; }
+      .arrow { stroke:#64748b; stroke-width:2.5; fill:none; marker-end:url(#arrow); }
+      .noteTitle { font:700 16px Arial,sans-serif; fill:#183454; }
+      .note { font:400 15px Arial,sans-serif; fill:#3b4f67; }
+      .footer { font:400 13px Arial,sans-serif; fill:#718096; }
+    </style>
+  </defs>
+  <rect class="bg" width="1600" height="1030"/>
+  <text x="58" y="58" class="title">Chuẩn bị nội dung và tài liệu cần học</text>
+  <text x="58" y="91" class="subtitle">Cluster: sinh viên xác định phạm vi học từ nhiều nguồn · Pilot đề xuất: checklist thủ công, chưa dùng AI</text>
+
+  <rect x="40" y="120" width="1520" height="330" rx="22" class="panel"/>
+  <text x="66" y="160" class="lane">HIỆN TẠI</text>
+  <text x="1530" y="160" class="tag" text-anchor="end">THÔNG TIN VÀ HỌC LIỆU PHÂN TÁN</text>
+
+  <g transform="translate(60,205)">
+    <rect width="220" height="150" class="box"/><circle cx="24" cy="24" r="15" class="numCircle"/><text x="24" y="29" class="num" text-anchor="middle">1</text>
+    <text x="110" y="63" class="step"><tspan x="110">Chọn bài kiểm tra</tspan><tspan x="110" dy="23">hoặc chủ đề mới</tspan></text>
+  </g>
+  <path d="M282 280 H302" class="arrow"/>
+  <g transform="translate(310,205)">
+    <rect width="220" height="150" class="box"/><circle cx="24" cy="24" r="15" class="numCircle"/><text x="24" y="29" class="num" text-anchor="middle">2</text>
+    <text x="110" y="55" class="step"><tspan x="110">Mở slide, ghi chú,</tspan><tspan x="110" dy="22">thông báo chính thức</tspan><tspan x="110" dy="22">hoặc tìm trên web,</tspan><tspan x="110" dy="22">hội nhóm</tspan></text>
+  </g>
+  <path d="M532 280 H552" class="arrow"/>
+  <g transform="translate(560,205)">
+    <rect width="220" height="150" class="box"/><circle cx="24" cy="24" r="15" class="numCircle"/><text x="24" y="29" class="num" text-anchor="middle">3</text>
+    <text x="110" y="63" class="step"><tspan x="110">Liệt kê chủ đề</tspan><tspan x="110" dy="23">và tài liệu có thể cần</tspan></text>
+  </g>
+  <path d="M782 280 H802" class="arrow"/>
+  <g transform="translate(810,205)">
+    <rect width="220" height="150" class="bottleneck"/><circle cx="24" cy="24" r="15" class="numCircleBad"/><text x="24" y="29" class="num" text-anchor="middle">4</text>
+    <text x="110" y="55" class="step"><tspan x="110">Đối chiếu phạm vi</tspan><tspan x="110" dy="22">/ đánh giá độ phù hợp</tspan></text>
+    <text x="110" y="118" class="warn">Khoảng 15 phút*</text>
+  </g>
+  <path d="M1032 280 H1052" class="arrow"/>
+  <g transform="translate(1060,205)">
+    <rect width="220" height="150" class="box"/><circle cx="24" cy="24" r="15" class="numCircle"/><text x="24" y="29" class="num" text-anchor="middle">5</text>
+    <text x="110" y="63" class="step"><tspan x="110">Ưu tiên nội dung</tspan><tspan x="110" dy="23">và đánh dấu phần rõ/chưa rõ</tspan></text>
+  </g>
+  <path d="M1282 280 H1302" class="arrow"/>
+  <g transform="translate(1310,205)">
+    <rect width="220" height="150" class="box"/><circle cx="24" cy="24" r="15" class="numCircle"/><text x="24" y="29" class="num" text-anchor="middle">6</text>
+    <text x="110" y="63" class="step"><tspan x="110">Chốt danh sách</tspan><tspan x="110" dy="23">để bắt đầu học</tspan></text>
+  </g>
+
+  <rect x="40" y="475" width="1520" height="330" rx="22" class="panel"/>
+  <text x="66" y="515" class="lane">PILOT ĐỀ XUẤT · NO AI</text>
+  <text x="1530" y="515" class="tag" text-anchor="end">CHECKLIST + NGUỒN CHÍNH THỨC + KIỂM TRA NGƯỜI HỌC</text>
+
+  <g transform="translate(60,560)">
+    <rect width="220" height="150" class="boxFuture"/><circle cx="24" cy="24" r="15" class="numCircle"/><text x="24" y="29" class="num" text-anchor="middle">1</text>
+    <text x="110" y="55" class="step"><tspan x="110">Xác định bài kiểm tra</tspan><tspan x="110" dy="22">hoặc chủ đề</tspan><tspan x="110" dy="22">và mục tiêu học</tspan></text>
+  </g>
+  <path d="M282 635 H302" class="arrow"/>
+  <g transform="translate(310,560)">
+    <rect width="220" height="150" class="boxFuture"/><circle cx="24" cy="24" r="15" class="numCircle"/><text x="24" y="29" class="num" text-anchor="middle">2</text>
+    <text x="110" y="55" class="step"><tspan x="110">Gom thông báo</tspan><tspan x="110" dy="22">chính thức, slide,</tspan><tspan x="110" dy="22">ghi chú và nguồn</tspan><tspan x="110" dy="22">được lớp chấp nhận</tspan></text>
+  </g>
+  <path d="M532 635 H552" class="arrow"/>
+  <g transform="translate(560,560)">
+    <rect width="220" height="150" class="boxFuture"/><circle cx="24" cy="24" r="15" class="numCircle"/><text x="24" y="29" class="num" text-anchor="middle">3</text>
+    <text x="110" y="55" class="step"><tspan x="110">Dùng checklist</tspan><tspan x="110" dy="22">đối chiếu chủ đề;</tspan><tspan x="110" dy="22">ghi link hoặc</tspan><tspan x="110" dy="22">số trang nguồn</tspan></text>
+  </g>
+  <path d="M782 635 H802" class="arrow"/>
+  <g transform="translate(810,560)">
+    <rect width="220" height="150" class="boxFuture"/><circle cx="24" cy="24" r="15" class="numCircle"/><text x="24" y="29" class="num" text-anchor="middle">4</text>
+    <text x="110" y="55" class="step"><tspan x="110">Kiểm tra đủ phạm vi;</tspan><tspan x="110" dy="22">mục mơ hồ thì</tspan><tspan x="110" dy="22">hỏi giảng viên</tspan></text>
+  </g>
+  <path d="M1032 635 H1052" class="arrow"/>
+  <g transform="translate(1060,560)">
+    <rect width="220" height="150" class="boxFuture"/><circle cx="24" cy="24" r="15" class="numCircle"/><text x="24" y="29" class="num" text-anchor="middle">5</text>
+    <text x="110" y="55" class="step"><tspan x="110">Lọc tài liệu theo</tspan><tspan x="110" dy="22">chủ đề, trình độ,</tspan><tspan x="110" dy="22">mục tiêu và nguồn</tspan></text>
+  </g>
+  <path d="M1282 635 H1302" class="arrow"/>
+  <g transform="translate(1310,560)">
+    <rect width="220" height="150" class="boxFuture"/><circle cx="24" cy="24" r="15" class="numCircle"/><text x="24" y="29" class="num" text-anchor="middle">6</text>
+    <text x="110" y="63" class="step"><tspan x="110">Sinh viên kiểm tra</tspan><tspan x="110" dy="23">và chốt danh sách</tspan></text>
+  </g>
+
+  <rect x="40" y="830" width="1520" height="155" rx="18" fill="#eaf0f7"/>
+  <text x="66" y="865" class="noteTitle">Số liệu và giới hạn</text>
+  <text x="66" y="895" class="note">* Card phạm vi kiểm tra ước lượng khoảng 30 phút/lần; bước đối chiếu 15 phút là giả định, chưa đo.</text>
+  <text x="66" y="922" class="note">Nhánh tìm tài liệu cho chủ đề mới chưa có baseline. Mục tiêu ≤15 phút chỉ là giả thuyết cho lần chốt phạm vi, cần pilot.</text>
+  <text x="66" y="949" class="note">Boundary: thông báo chính thức là nguồn chuẩn; không rõ thì hỏi giảng viên. Nếu checklist không phù hợp, quay lại đối chiếu thủ công.</text>
+  <text x="1530" y="1010" class="footer" text-anchor="end">CP5 · Bản nháp dựa trên Problem Cards đã cung cấp</text>
+</svg>
