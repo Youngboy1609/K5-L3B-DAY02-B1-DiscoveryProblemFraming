@@ -7,7 +7,7 @@
 
 - Tên nhóm: B1
 - Thành viên: xem `TEAM.md`
-- Candidate problem được chọn (1 câu):
+- Candidate problem đề xuất (chờ nhóm xác nhận): Sinh viên mất thời gian xác định nội dung cần học và chọn tài liệu phù hợp từ nhiều nguồn.
 - Quyết định cuối: Not Yet
 
 ---
@@ -32,42 +32,48 @@
 
 ### 2.2. Cluster
 
-| Cluster | Các candidate | Pattern chung |
+| Cluster | Các candidate trong 9 card | Pattern chung |
 |---|---|---|
-| A | | |
-| B | | |
-| C | | |
+| A — Review công việc cá nhân | Hồ Trọng Nghĩa #1: review tuần | Nhìn lại việc đã làm/chưa làm để điều chỉnh cách làm tuần sau. |
+| B — Xác định nội dung và tài liệu học | Nguyễn Minh Quân #2: phạm vi ôn thi; Vũ Bá Tùng Lâm #2: tìm tài liệu cho chủ đề mới | Sinh viên sàng lọc nhiều nguồn để biết cần học gì và tài liệu nào phù hợp. Đây là cluster được đề xuất đưa vào shortlist. |
+| C — Điều phối nhóm | Nguyễn Minh Quân #1: tìm bản cuối để ghép bài; Nguyễn Minh Quân #3: tìm giờ họp chung | Đồng bộ thông tin hoặc lịch giữa các thành viên để nhóm tiếp tục công việc. |
+| D — Tìm và đánh giá thông tin để ra quyết định | Hồ Trọng Nghĩa #2: tìm nghiên cứu; Hồ Trọng Nghĩa #3: đọc/đối chiếu paper; Vũ Bá Tùng Lâm #3: so sánh sản phẩm công nghệ | Tìm, hiểu và so sánh thông tin từ nhiều nguồn trước khi quyết định; các domain khác nhau nên mức độ cùng pattern cần nhóm xác nhận. |
+| E — Theo dõi chi tiêu | Vũ Bá Tùng Lâm #1: ghi nhận/phân loại chi tiêu | Tổng hợp chi tiêu cá nhân; hiện là ý đơn lẻ, chưa có card khác cùng pattern rõ. |
 
 ### 2.3. Opportunity Solution Tree rút gọn
 
 Gốc là **1 outcome**. Nhánh là **opportunity** (nhu cầu, pain), không phải tính năng hay công cụ.
 
 ```text
-OUTCOME: 
-├── Opportunity A: 
-├── Opportunity B: 
-└── Opportunity C: 
+OUTCOME: Giảm thời gian sinh viên cần để xác định nội dung cần học và chọn tài liệu phù hợp từ nhiều nguồn
+├── Opportunity A: Khi ôn thi, chủ đề trong thông báo, slide và ghi chú khó đối chiếu để chốt phạm vi đầy đủ
+├── Opportunity B: Khi học chủ đề mới, có quá nhiều tài liệu và khó biết nguồn nào đáng tin, phù hợp trình độ và nên học trước
+└── Opportunity C: Khó xác định tài liệu nào tương ứng với từng chủ đề và mục tiêu học
 ```
+
+> Opportunity C là hướng tổng hợp để nhóm kiểm tra thêm; nếu thành viên không xác nhận đây là pain riêng, hãy bỏ nhánh này. Metric 30→15 phút hiện chỉ là mục tiêu thử cho tình huống chốt phạm vi ôn thi; nhánh tìm tài liệu chưa có baseline riêng.
 
 Những ý đã gạch bỏ vì là solution đội lốt opportunity:
 
--
+- «AI tạo study guide», «tự động đề xuất lộ trình học» và «làm ứng dụng tổng hợp tài liệu» là solution, không phải opportunity.
 
 ### 2.4. Chấm điểm shortlist (1–5)
 
 | Candidate | Actor rõ | Quy trình rõ | Pain có bằng chứng | Impact đo được | Vừa sức lab | So sánh được No AI/Rule/Workflow/Agent | Nhóm hiểu domain | Tổng |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| | | | | | | | | |
-| | | | | | | | | |
-| | | | | | | | | |
+| A — Review tuần (Hồ Trọng Nghĩa #1) | 5 | 5 | 3 | 4 | 5 | 5 | 3 | **30** |
+| B — Nội dung và tài liệu cần học (Quân #2 + Tùng Lâm #2) | 5 | 4 | 3 | 4 | 5 | 5 | 4 | **30** |
+| C — Tìm giờ họp chung (Nguyễn Minh Quân #3) | 5 | 5 | 2 | 4 | 5 | 5 | 3 | **29** |
 
-**Candidate được chọn:**
+> Điểm trên là bản chấm sơ bộ cá nhân của Hồ Trọng Nghĩa để nhóm thảo luận, chưa phải điểm đồng thuận. Pain và thời lượng chưa được phỏng vấn hoặc đo độc lập.
 
-**Vì sao chọn:**
+**Candidate đề xuất để nhóm xác nhận:** B — Sinh viên mất thời gian xác định nội dung cần học và chọn tài liệu phù hợp từ nhiều nguồn.
 
-**Vì sao loại các candidate còn lại:**
+**Vì sao đề xuất B:** Hai card của hai thành viên cùng hướng về nhu cầu học tập; actor và quy trình đủ rõ để thử một checklist No AI, đồng thời có thể tách riêng tình huống ôn thi và tìm tài liệu mới.
 
-**Xử lý bất đồng (nếu có):**
+**Vì sao A/C chưa ưu tiên trong shortlist:** A hiện chỉ có một card và số liệu review là ước lượng; C có tổng thời gian chờ 240 phút nhưng phần 210 phút chờ là giả định. Các cluster D/E được ghi nhận nhưng có domain rộng hoặc card đơn lẻ, nên chưa chọn làm candidate phân tích sâu.
+
+**Xử lý bất đồng:** Chưa ghi nhận bất đồng hoặc quyết định tập thể; cập nhật sau khi nhóm chấm và thảo luận trực tiếp.
 
 ---
 

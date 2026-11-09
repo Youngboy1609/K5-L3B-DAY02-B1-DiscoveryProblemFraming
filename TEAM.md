@@ -6,7 +6,7 @@
 
 - Tên nhóm:B1
 - Candidate problem nhóm chọn (1 câu): Sinh viên mất thời gian xác định nội dung và tài liệu cần học từ nhiều nguồn
-- Quyết định cuối (Go / Not Yet / No-Go):
+- Quyết định cuối (Go / Not Yet / No-Go): Not Yet
 
 ## Thành viên
 
@@ -24,13 +24,13 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 
 | Checkpoint | Người chính | Người hỗ trợ | Sản phẩm |
 |---|---|---|---|
-| CP3 — Hội tụ nhóm | | | Cluster, cây OST, bảng chấm điểm |
-| CP4 — Kiểm chứng | | | Assumption map, snapshot hoặc survey |
-| CP4 — Research | | | Bảng research có link |
-| CP5 — Quy trình trước/sau | | | Quy trình + bảng before/after |
-| CP5 — Problem Statement v0 | | | Problem Statement v0 |
-| CP6 — Mức can thiệp + Problem Statement v1 | | | Ma trận, AI Canvas, eval, Problem Statement v1 |
-| CP6 — Quyết định | | | 4 rủi ro + Go/Not Yet/No-Go |
+| CP3 — Hội tụ nhóm | Vũ Bá Tùng Lâm | Nguyễn Minh Quân | Cluster, cây OST, bảng chấm điểm |
+| CP4 — Kiểm chứng | Nguyễn Minh Quân | Hồ Trọng Nghĩa | Assumption map, interview snapshots hoặc survey tổng hợp |
+| CP4 — Research | Hồ Trọng Nghĩa | Vũ Bá Tùng Lâm | Bảng research có link và nhận định khoảng trống |
+| CP5 — Quy trình trước/sau | Vũ Bá Tùng Lâm | Hồ Trọng Nghĩa | Quy trình + bảng before/after |
+| CP5 — Problem Statement v0 | Nguyễn Minh Quân | Vũ Bá Tùng Lâm | Problem Statement v0 |
+| CP6 — Mức can thiệp + Problem Statement v1 | Vũ Bá Tùng Lâm | Nguyễn Minh Quân | Ma trận, so sánh 4 mức, eval, Problem Statement v1 (AI Canvas nếu chọn mức AI) |
+| CP6 — Quyết định | Hồ Trọng Nghĩa | Vũ Bá Tùng Lâm | 4 rủi ro + Go/Not Yet/No-Go |
 
 ## Cá nhân
 
