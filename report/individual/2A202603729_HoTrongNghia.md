@@ -132,18 +132,18 @@ MỖI PAPER — tổng theo bước: 35–40 phút
 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | | |
-| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: | |
-| Nhận phản biện | Câu hỏi tôi nhận được: | Tôi đã sửa gì: |
-| Gom cluster / cây OST | | |
-| Chọn candidate problem | Đề xuất chấm sơ bộ 3 candidate để đưa vào thảo luận nhóm; xem bảng CP3 bên dưới. | Chưa ghi nhận đây là kết quả hoặc đồng thuận của nhóm. |
-| Kiểm chứng / research | | |
-| Quy trình nhóm | | |
-| Problem Statement | | |
-| Mức can thiệp AI | | |
-| Quyết định | | |
+| Pitch Problem Card | Trình bày card #1 về review tuần: xem lại việc đã làm/chưa làm, tìm phần tốn thời gian hoặc phải sửa đi sửa lại. | Đưa vấn đề cá nhân vào 9 card được nhóm xem xét ở CP3. Thời lượng 50–90 phút là ước lượng theo bước, chưa bấm giờ. |
+| Phản biện bài của bạn khác | Tôi hỏi (diễn ý): Hai card về phạm vi ôn thi và tìm tài liệu có cùng bottleneck hay cần tách thành hai vấn đề? Tôi cũng phản biện card tìm giờ họp: When2meet đã hỗ trợ tìm khung giờ chung, vậy pain nào vẫn chưa được giải quyết? | Giúp nhóm kiểm tra xem cluster học tập có thật sự chung pattern và xem xét giải pháp sẵn có trước khi ưu tiên vấn đề tìm giờ họp. Câu hỏi được diễn ý, không phải trích nguyên văn. |
+| Nhận phản biện | Ý phản biện tôi nhớ: có hai card cùng hướng về khó khăn học tập/ôn thi nên nhóm nên tập trung thay vì phân tích dàn trải. | Tôi hạ mức ưu tiên card review tuần của mình và đồng ý chọn cluster học tập để đào sâu; đây là tóm tắt ý phản biện, không phải trích dẫn nguyên văn. |
+| Gom cluster / cây OST | Cùng xem 9 card, đề xuất tách các hướng review tuần, nội dung/tài liệu học, điều phối nhóm, nghiên cứu/so sánh thông tin và theo dõi chi tiêu. Với cluster học tập, góp ý outcome và các opportunity xoay quanh xác định phạm vi, lọc tài liệu và nối tài liệu với mục tiêu học. | Nhóm thống nhất chọn cluster học tập làm hướng phân tích; OST và các cluster được ghi trong báo cáo nhóm. |
+| Chọn candidate problem | Đưa ba candidate vào shortlist và chấm ban đầu; sau thảo luận nhóm thống nhất candidate sinh viên mất thời gian xác định nội dung và tài liệu cần học từ nhiều nguồn cùng các điểm shortlist. | Candidate B được chọn để đi tiếp CP4–CP6; các điểm trong bảng được nhóm thống nhất nhưng không thay cho bằng chứng pain đã kiểm chứng. |
+| Kiểm chứng / research | Dùng AI hỗ trợ lập assumption map, câu hỏi phỏng vấn và tổng hợp research về Gemini Notebook, Quizlet Study Guides, Anki; ghi rõ chưa phỏng vấn/survey. | Bảng research nêu khả năng và khoảng trống của công cụ; không dùng research thay bằng chứng về pain của sinh viên. |
+| Quy trình nhóm | Cùng xây dựng bản mô tả quy trình hiện tại và pilot checklist No AI, bảng before/after và sơ đồ; phân biệt nhánh ôn phạm vi với nhánh tìm tài liệu. | Có sơ đồ quy trình và cách đo dự kiến; baseline 30 phút và mục tiêu 15 phút chỉ áp dụng cho nhánh chốt phạm vi ôn thi, vẫn là số liệu cần kiểm chứng. |
+| Problem Statement | Hỗ trợ cấu trúc actor, quy trình, bottleneck, impact, metric và boundary cho PS v0/v1; nêu riêng phần chưa có baseline. | Problem Statement tập trung vào sinh viên xác định nội dung/tài liệu học từ nhiều nguồn; checklist không thay thông báo chính thức và mục chưa rõ phải hỏi giảng viên. |
+| Mức can thiệp AI | Tham gia so sánh No AI/Rule/Workflow/Agent và chọn thử checklist No AI trước; chưa đề xuất tự động hóa khi chưa có bằng chứng. | Có mức can thiệp, tiêu chí đánh giá và boundary cho pilot; AI Canvas/PAIR không áp dụng cho phương án No AI theo worksheet. |
+| Quyết định | Đồng ý quyết định Not Yet cho đến khi có kiểm chứng người học và đo baseline; tham gia ghi rủi ro và điều kiện thử tiếp. | Nhóm chưa coi pain hay hiệu quả pilot là đã xác nhận; cần phỏng vấn và thử checklist trước khi quyết định tiếp. |
 
-### CP3 bước 4 — Bản chấm sơ bộ cá nhân (chưa phải điểm nhóm)
+### CP3 bước 4 — Bản chấm cá nhân ban đầu (điểm shortlist đã được nhóm thống nhất)
 
 | Candidate | Actor rõ | Quy trình rõ | Pain có bằng chứng | Impact đo được | Vừa sức lab | So sánh được No AI/Rule/Workflow/Agent | Nhóm hiểu domain | Tổng |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
@@ -151,7 +151,7 @@ MỖI PAPER — tổng theo bước: 35–40 phút
 | #2 — Xác định nội dung và tài liệu cần học | 5 | 4 | 3 | 4 | 5 | 5 | 4 | **30** |
 | #3 — Tìm giờ họp chung | 5 | 5 | 2 | 4 | 5 | 5 | 3 | **29** |
 
-**Cơ sở chấm tạm:** #1 có quy trình rõ nhưng thời lượng vẫn là tự ước lượng và tổng từng bước chưa khớp hoàn toàn với ước lượng chung. #2 có hai card cùng hướng về việc chọn nội dung/tài liệu học, nhưng thời lượng và rủi ro bỏ sót chưa được kiểm chứng. #3 có thời gian chốt lịch ước lượng 240 phút; 210 phút chờ phản hồi được ghi là giả định. Điểm “nhóm hiểu domain” là đánh giá sơ bộ, nhóm cần tự điều chỉnh.
+**Cơ sở chấm:** #1 có quy trình rõ nhưng thời lượng vẫn là tự ước lượng và tổng từng bước chưa khớp hoàn toàn với ước lượng chung. #2 có hai card cùng hướng về việc chọn nội dung/tài liệu học, nhưng thời lượng và rủi ro bỏ sót chưa được kiểm chứng. #3 có thời gian chốt lịch ước lượng 240 phút; 210 phút chờ phản hồi được ghi là giả định. Nhóm đã thống nhất điểm shortlist; các mốc pain/thời gian vẫn chưa được kiểm chứng độc lập.
 
 **Đề xuất cá nhân để thảo luận:** ưu tiên xem xét #2 vì có hai card hội tụ thành một pattern; bảng điểm hiện chưa đủ để kết luận thay nhóm. Nhóm cần ghi bảng điểm và quyết định cuối cùng tại `report/team/group_report.md` mục 2.4.
 ---
@@ -162,6 +162,7 @@ MỖI PAPER — tổng theo bước: 35–40 phút
 |---|---|---|---|---|
 | CP1 Scan | AI hỗ trợ sắp xếp các vấn đề tôi kể thành các hướng scan và viết chúng thành Job Story. Tôi đưa vào trải nghiệm review tuần, tìm/đọc paper, tìm lại quyết định nhóm và một lần phải sửa phối màu UI. | Giúp biến các ví dụ rời rạc thành problem có tình huống, người chịu ảnh hưởng và kết quả mong muốn; nhắc phân biệt sự cố một lần với vấn đề lặp lại. | Các câu chữ và số liệu do AI gợi ý không tự chứng minh được vấn đề là phổ biến; thời lượng ban đầu là ước lượng của tôi. | Tôi bổ sung tình huống thật, tần suất và thời gian theo trải nghiệm; giữ rõ việc phối màu mới xảy ra một lần, không gọi đó là vấn đề lặp lại. |
 | CP2 Problem Card | Nhờ AI gợi ý cách cấu trúc card, mục tiêu và phản biện 3 ý đã chọn. | Giúp làm rõ các bước, thời lượng và điểm cần kiểm tra. | Mục tiêu 20 phút/tuần và 30 phút/paper là đề xuất, chưa có dữ liệu kiểm chứng; bước dùng phần thời gian còn lại ở #2 được suy ra từ tổng. | Tôi cung cấp/sửa lại quy trình thực tế, ghi rõ thời lượng là ước lượng, và thêm điều kiện không đánh đổi chất lượng khi giảm thời gian. |
+| CP3 Hội tụ nhóm | AI hỗ trợ tóm tắt 9 card, đề xuất cách gom cluster, viết nháp OST và sắp xếp shortlist/điểm để nhóm xem xét. | Tạo bản nháp có cấu trúc để nhóm thảo luận; không thay phần pitch và quyết định của thành viên. | Đề xuất cluster/điểm có thể tạo thiên lệch; nhóm cần phân biệt điểm chấm với bằng chứng pain đã kiểm chứng. Worksheet yêu cầu tự pitch/tự phản biện không dùng AI. | Tôi ghi nhận việc dùng AI; nhóm tự thảo luận và thống nhất candidate B cùng điểm shortlist. Tôi không tạo câu hỏi phản biện chưa được ghi nhận. |
 | CP4 Research | AI giúp lập assumption map, cấu trúc câu hỏi phỏng vấn về lần gần nhất và tổng hợp research về Gemini Notebook, Quizlet Study Guides và Anki từ tài liệu chính thức. | Làm rõ công cụ giải bước nào và khoảng trống nào còn lại so với việc chọn phạm vi/tài liệu học. | Research sản phẩm không xác nhận sinh viên thật sự gặp pain; phần đối chiếu mức phù hợp là phân tích, không phải kết quả thử nghiệm. Phỏng vấn/survey chưa thực hiện. | Tôi giữ trạng thái 0 phỏng vấn, không điền dữ liệu giả; các giả định về nhu cầu và thời gian được ghi là chưa kiểm chứng. |
 | CP5 Quy trình | AI giúp tóm tắt quy trình hiện tại, đề xuất pilot checklist No AI, bảng before/after và sơ đồ quy trình. | Trình bày rõ bước đối chiếu nguồn, bottleneck và cách đo thời gian; sơ đồ giúp nhóm xem nhanh quy trình. | Bản nháp ban đầu gộp tình huống ôn phạm vi với tìm tài liệu mới, trong khi baseline và bottleneck của chúng khác nhau. Mốc thời gian trong Problem Card chưa phải số đo thực tế. | Tôi ghi riêng hai tình huống, giữ mốc 30→15 phút chỉ như mục tiêu thử cho việc chốt phạm vi kiểm tra, và nêu thông báo chính thức là nguồn chuẩn; chỗ chưa rõ phải hỏi giảng viên. |
 | CP5–6 Problem Statement | AI giúp đưa actor, quy trình, bottleneck, impact, success metric và boundary vào cấu trúc Problem Statement v0/v1. | Giúp rà xem các trường cần thiết đã được nêu và nối metric với quy trình pilot. | Bản gộp chưa phản ánh baseline riêng của nhánh tìm tài liệu; mục tiêu giảm thời gian chưa có dữ liệu xác nhận. | Tôi ghi rõ baseline 30 phút và mục tiêu ≤15 phút là ước lượng/mục tiêu thử cho nhánh phạm vi kiểm tra; yêu cầu đo riêng thời gian tìm tài liệu và không tuyên bố đã đạt target. |
@@ -175,20 +176,38 @@ Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ ch
 
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
 
+Khi lắng nghe các thành viên khác trình bày, tôi nhận ra sự tương đồng thú vị giữa card "review công việc tuần" của mình và card "xác định phạm vi ôn thi/tìm tài liệu" của các bạn. Điểm chung lớn nhất là chúng ta đều đang tốn rất nhiều thời gian ở khâu chắt lọc thông tin từ vô số nguồn hỗn tạp. Với card "tìm giờ họp nhóm", tôi khá bất ngờ khi nghe con số ước lượng lên đến 210 phút cho thời gian chờ đợi. Bài học lớn nhất tôi rút ra là: một vấn đề dù nghe có vẻ quen thuộc và phổ biến đến đâu, chúng ta vẫn không thể tự suy diễn. Bắt buộc phải đi hỏi trực tiếp người đang gặp vấn đề đó và đo lường thời gian thực tế thì mới có thể hiểu đúng bản chất sự việc.
+
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
+
+Thú thật là nhóm tôi đã rơi vào bẫy "solution-first" ngay từ những phút đầu tiên. Khi vừa bàn về khó khăn trong việc tìm tài liệu, mọi người đã lập tức nghĩ đến việc làm một "study guide" tự động hoặc đưa AI vào để tóm tắt bài giảng. Rất may là sau đó, chúng tôi nhận ra mình chưa hề xác nhận được sinh viên thực sự gặp bế tắc ở khâu cụ thể nào. Để xử lý, nhóm đã phanh lại bằng cách quay về vẽ chi tiết mô tả quy trình học và ôn thi hiện tại. Chúng tôi quyết định gác ý tưởng AI sang một bên, chọn cách tạo một checklist thủ công (No AI) để thử nghiệm trước, và thống nhất dùng thông báo chính thức của môn học làm nguồn chuẩn mực.
 
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
 
+Có, tôi đã thay đổi định hướng của mình sau khi thảo luận. Ban đầu, tôi muốn nhóm xem xét dàn trải cả ba hướng: tối ưu quy trình review tuần, công cụ tìm giờ họp và vấn đề tìm tài liệu học tập. Tuy nhiên, khi đối chiếu lại, các bạn chỉ ra rằng có đến hai card đang cùng hướng về khó khăn trong học tập và ôn thi của sinh viên. Phân tích dàn trải sẽ làm nhóm mất trọng tâm. Do đó, tôi đã đổi ý, chấp nhận hạ mức độ ưu tiên của card review tuần mang tính cá nhân của mình xuống, và đồng ý gộp hai card kia thành một cluster lớn để nhóm tập trung đào sâu phân tích.
+
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
+
+Thực tế thì nhóm tôi vẫn chưa tiến hành phỏng vấn hay khảo sát sinh viên ngoài nhóm, nên tôi chưa có dữ liệu thực tế để đối chiếu. Tuy nhiên, chính điều này lại làm tôi trăn trở. Mọi con số hiện tại, điển hình như kỳ vọng giảm thời gian từ 30 phút xuống còn 15 phút, vẫn chỉ là giả định chủ quan. Tôi nhận ra mình không thể biết chắc sinh viên đang thực sự mất bao lâu, hay liệu họ có đang dùng mẹo nào đó nhanh hơn quy trình nhóm vẽ ra hay không. Nhận thức này nhắc nhở tôi rằng cần phải đi kiểm chứng thực tế trước khi đặt niềm tin vào các mốc thời gian ước lượng.
 
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
 
+Khó khăn lớn nhất của nhóm khi viết Problem Statement là việc phải gộp hai tình huống: "chốt phạm vi ôn thi" và "tìm tài liệu cho chủ đề mới". Dù cùng thuộc một cluster, hai tình huống này lại chưa có chung một đường cơ sở (baseline) về thời gian và công sức. Để giải quyết, nhóm đã rất vất vả trong việc giữ một đối tượng người dùng (candidate) chung nhất, nhưng lại phải khéo léo tách biệt phần phép đo (metric) cho từng tình huống thì bài toán mới trở nên rõ ràng và đo lường được.
+
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
 
+Nếu được làm lại, tôi sẽ yêu cầu nhóm thiết lập các thước đo thời gian ngay từ bước đầu tiên thay vì chỉ phỏng đoán. Khi phỏng vấn, tôi sẽ hỏi các bạn sinh viên về sự kiện cụ thể ở lần gần nhất họ gặp rắc rối với tài liệu học, chứ không hỏi chung chung. Đặc biệt, tôi sẽ phản biện nhóm mạnh mẽ hơn ở việc phải tách bạch rõ ràng giữa "nỗi đau" thực sự của người dùng và ý tưởng làm công cụ. Tôi sẽ không để nhóm lấy việc "AI đang phổ biến" làm bằng chứng ngụy biện cho việc người học thực sự cần đến giải pháp đó.
+
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
+
+Vấn đề cốt lõi của nhóm là sinh viên đang mất quá nhiều thời gian để xác định nội dung và tìm kiếm tài liệu học tập từ nhiều nguồn phân tán. Quy trình hiện tại đòi hỏi họ phải mở hàng loạt nguồn, lập danh sách, đối chiếu phạm vi thi, đánh giá độ phù hợp và tự đánh dấu những phần chưa hiểu. Để đo lường, nhóm đặt metric cho nhánh xác định phạm vi thi là giảm từ mức ước lượng 30 phút xuống còn dưới 15 phút, trong khi nhánh tìm tài liệu cần được đo baseline riêng. Ranh giới (boundary) được thiết lập rất khắt khe: nhóm chỉ lấy các thông báo chính thức làm nguồn chuẩn mực, mọi nội dung mơ hồ đều bắt buộc phải hỏi lại giảng viên. Về mức độ can thiệp của giải pháp, nhóm quyết định sẽ bắt đầu bằng việc thử nghiệm (pilot) một checklist hoàn toàn không dùng AI. Do đó, quyết định hiện tại của nhóm là "Not Yet" – chưa tiến hành làm sản phẩm cho đến khi có kết quả phỏng vấn và đo lường thực tế.
 
 ---
 
 ## 7. Tài liệu tham khảo
 
--
+- Nhóm B1. [Worksheet — hướng dẫn chi tiết từng checkpoint](../../docs/01-worksheet.md).
+- Google. [Add or discover new sources for your notebook](https://support.google.com/gemininotebook/answer/16215270?hl=en). *Gemini Apps Help*.
+- Google. [Create a notebook and generate reports, study guides, and more](https://support.google.com/gemininotebook/answer/16206563?hl=en). *Gemini Apps Help*.
+- Quizlet. [Studying with Study Guides](https://help.quizlet.com/hc/en-us/articles/18312306436365-Studying-with-Study-Guides). *Quizlet Help Center*.
+- Anki. [Background](https://docs.ankiweb.net/manual/background). *Anki Manual*.

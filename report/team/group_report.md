@@ -7,7 +7,7 @@
 
 - Tên nhóm: B1
 - Thành viên: xem `TEAM.md`
-- Candidate problem đề xuất (chờ nhóm xác nhận): Sinh viên mất thời gian xác định nội dung cần học và chọn tài liệu phù hợp từ nhiều nguồn.
+- Candidate problem nhóm chọn (CP3): Sinh viên mất thời gian xác định nội dung cần học và chọn tài liệu phù hợp từ nhiều nguồn.
 - Quyết định cuối: Not Yet
 
 ---
@@ -16,11 +16,11 @@
 
 ### 2.1. Pitch
 
-| # | Người đưa ra | Candidate (Job Story ngắn) | Actor | Bottleneck | Câu hỏi phản biện nhận được (ai hỏi) |
+| # | Người đưa ra | Candidate (Job Story ngắn) | Actor | Bottleneck | Câu hỏi / ý phản biện trong buổi pitch (người hỏi) |
 |---:|---|---|---|---|---|
 | 1 | Nguyễn Minh Quân | Khi nhóm chuẩn bị ghép bài, muốn xác định bản mới nhất đã được duyệt của từng phần để đưa đúng nội dung vào bản nộp chung. | Thành viên ghép bài và chuẩn bị bản nộp | Đối chiếu tên file, thời điểm gửi và nội dung của 4 phiên bản: khoảng 10 phút/lần (ước lượng). | Chưa có câu hỏi phản biện được ghi trong card; nhóm bổ sung sau buổi pitch. |
-| 2 | Nguyễn Minh Quân | Khi chuẩn bị ôn kiểm tra, muốn xác định chủ đề trong phạm vi để phân bổ thời gian ôn đúng phần. | Sinh viên lập danh sách chủ đề ôn tập | Đối chiếu chủ đề với thông báo chính thức: khoảng 15 phút/lần (ước lượng). | Chưa có câu hỏi phản biện được ghi trong card; nhóm bổ sung sau buổi pitch. |
-| 3 | Nguyễn Minh Quân | Khi nhóm cần hẹn họp, muốn biết khung giờ mọi thành viên có thể tham gia để chốt lịch. | Thành viên phụ trách hẹn lịch | Chờ đủ phản hồi: khoảng 210 phút (ước lượng); tổng thời gian đến lúc gửi lịch khoảng 240 phút. | Chưa có câu hỏi phản biện được ghi trong card; nhóm bổ sung sau buổi pitch. |
+| 2 | Nguyễn Minh Quân | Khi chuẩn bị ôn kiểm tra, muốn xác định chủ đề trong phạm vi để phân bổ thời gian ôn đúng phần. | Sinh viên lập danh sách chủ đề ôn tập | Đối chiếu chủ đề với thông báo chính thức: khoảng 15 phút/lần (ước lượng). | Hồ Trọng Nghĩa hỏi (diễn ý): Hai card về phạm vi ôn thi và tìm tài liệu có cùng bottleneck hay cần tách thành hai vấn đề? |
+| 3 | Nguyễn Minh Quân | Khi nhóm cần hẹn họp, muốn biết khung giờ mọi thành viên có thể tham gia để chốt lịch. | Thành viên phụ trách hẹn lịch | Chờ đủ phản hồi: khoảng 210 phút (ước lượng); tổng thời gian đến lúc gửi lịch khoảng 240 phút. | Hồ Trọng Nghĩa phản biện: When2meet đã hỗ trợ tìm giờ chung; pain nào vẫn chưa được giải quyết? |
 | 4 | Vũ Bá Tùng Lâm | Khi chi tiêu trong tháng, muốn theo dõi và phân loại các khoản đã dùng để biết tiền đi đâu và kiểm soát ngân sách. | Cá nhân có thu nhập hoặc sinh hoạt phí cố định | Dễ quên ghi khoản nhỏ, mất công phân loại và tổng hợp dữ liệu từ nhiều nguồn; thời gian chưa đo. | Chưa có câu hỏi phản biện được ghi trong card; nhóm bổ sung sau buổi pitch. |
 | 5 | Vũ Bá Tùng Lâm | Khi bắt đầu học chủ đề mới, muốn tìm tài liệu phù hợp trình độ và mục tiêu để lập lộ trình học hiệu quả. | Sinh viên, người tự học hoặc người mới chuyển lĩnh vực | Nhiều tài liệu; khó xác định độ tin cậy, thứ tự học và mức phù hợp; thời gian chưa đo. | Chưa có câu hỏi phản biện được ghi trong card; nhóm bổ sung sau buổi pitch. |
 | 6 | Vũ Bá Tùng Lâm | Khi muốn mua sản phẩm công nghệ, muốn so sánh thông tin đáng tin cậy để chọn sản phẩm phù hợp nhu cầu và ngân sách. | Người tiêu dùng cần mua sản phẩm công nghệ | Thông tin phân tán giữa website/video; khó so thông số, độ tin cậy của đánh giá và giá bán; thời gian chưa đo. | Chưa có câu hỏi phản biện được ghi trong card; nhóm bổ sung sau buổi pitch. |
@@ -35,7 +35,7 @@
 | Cluster | Các candidate trong 9 card | Pattern chung |
 |---|---|---|
 | A — Review công việc cá nhân | Hồ Trọng Nghĩa #1: review tuần | Nhìn lại việc đã làm/chưa làm để điều chỉnh cách làm tuần sau. |
-| B — Xác định nội dung và tài liệu học | Nguyễn Minh Quân #2: phạm vi ôn thi; Vũ Bá Tùng Lâm #2: tìm tài liệu cho chủ đề mới | Sinh viên sàng lọc nhiều nguồn để biết cần học gì và tài liệu nào phù hợp. Đây là cluster được đề xuất đưa vào shortlist. |
+| B — Xác định nội dung và tài liệu học | Nguyễn Minh Quân #2: phạm vi ôn thi; Vũ Bá Tùng Lâm #2: tìm tài liệu cho chủ đề mới | Sinh viên sàng lọc nhiều nguồn để biết cần học gì và tài liệu nào phù hợp. Nhóm thống nhất chọn cluster này làm candidate đi tiếp. |
 | C — Điều phối nhóm | Nguyễn Minh Quân #1: tìm bản cuối để ghép bài; Nguyễn Minh Quân #3: tìm giờ họp chung | Đồng bộ thông tin hoặc lịch giữa các thành viên để nhóm tiếp tục công việc. |
 | D — Tìm và đánh giá thông tin để ra quyết định | Hồ Trọng Nghĩa #2: tìm nghiên cứu; Hồ Trọng Nghĩa #3: đọc/đối chiếu paper; Vũ Bá Tùng Lâm #3: so sánh sản phẩm công nghệ | Tìm, hiểu và so sánh thông tin từ nhiều nguồn trước khi quyết định; các domain khác nhau nên mức độ cùng pattern cần nhóm xác nhận. |
 | E — Theo dõi chi tiêu | Vũ Bá Tùng Lâm #1: ghi nhận/phân loại chi tiêu | Tổng hợp chi tiêu cá nhân; hiện là ý đơn lẻ, chưa có card khác cùng pattern rõ. |
@@ -65,21 +65,21 @@ Những ý đã gạch bỏ vì là solution đội lốt opportunity:
 | B — Nội dung và tài liệu cần học (Quân #2 + Tùng Lâm #2) | 5 | 4 | 3 | 4 | 5 | 5 | 4 | **30** |
 | C — Tìm giờ họp chung (Nguyễn Minh Quân #3) | 5 | 5 | 2 | 4 | 5 | 5 | 3 | **29** |
 
-> Điểm trên là bản chấm sơ bộ cá nhân của Hồ Trọng Nghĩa để nhóm thảo luận, chưa phải điểm đồng thuận. Pain và thời lượng chưa được phỏng vấn hoặc đo độc lập.
+> Nhóm đã thống nhất các điểm shortlist như trong bảng. Điểm số thể hiện mức đánh giá của nhóm về candidate, nhưng không thay cho bằng chứng người dùng; pain và thời lượng vẫn chưa được kiểm chứng độc lập.
 
-**Candidate đề xuất để nhóm xác nhận:** B — Sinh viên mất thời gian xác định nội dung cần học và chọn tài liệu phù hợp từ nhiều nguồn.
+**Candidate nhóm đã chọn:** B — Sinh viên mất thời gian xác định nội dung cần học và chọn tài liệu phù hợp từ nhiều nguồn.
 
-**Vì sao đề xuất B:** Hai card của hai thành viên cùng hướng về nhu cầu học tập; actor và quy trình đủ rõ để thử một checklist No AI, đồng thời có thể tách riêng tình huống ôn thi và tìm tài liệu mới.
+**Vì sao chọn B:** Hai card của hai thành viên cùng hướng về nhu cầu học tập; actor và quy trình đủ rõ để thử một checklist No AI, đồng thời có thể tách riêng tình huống ôn thi và tìm tài liệu mới.
 
-**Vì sao A/C chưa ưu tiên trong shortlist:** A hiện chỉ có một card và số liệu review là ước lượng; C có tổng thời gian chờ 240 phút nhưng phần 210 phút chờ là giả định. Các cluster D/E được ghi nhận nhưng có domain rộng hoặc card đơn lẻ, nên chưa chọn làm candidate phân tích sâu.
+**Vì sao A/C chưa ưu tiên trong shortlist:** A hiện chỉ có một card và số liệu review là ước lượng; với C, When2meet có thể giải quyết bước tìm khung giờ chung nên cần làm rõ pain còn lại, trong khi mốc chờ 210 phút vẫn là giả định. Các cluster D/E được ghi nhận nhưng có domain rộng hoặc card đơn lẻ, nên chưa chọn làm candidate phân tích sâu.
 
-**Xử lý bất đồng:** Chưa ghi nhận bất đồng hoặc quyết định tập thể; cập nhật sau khi nhóm chấm và thảo luận trực tiếp.
+**Xử lý bất đồng:** Nhóm đã thống nhất candidate B và các điểm shortlist trong bảng; không ghi nhận bất đồng còn mở.
 
 ---
 
 ## 3. Kiểm chứng + research giải pháp đã có (CP4)
 
-> Phạm vi bản nháp: cluster về sinh viên xác định nội dung và tài liệu cần học từ nhiều nguồn. Đây là working candidate theo trao đổi; nhóm cần xác nhận đây là candidate được chọn sau CP3.
+> Candidate nhóm đã chọn tại CP3: sinh viên xác định nội dung cần học và chọn tài liệu phù hợp từ nhiều nguồn. Hai tình huống trong cluster vẫn cần được đo riêng.
 
 ### 3.1. Assumption Map
 
@@ -128,35 +128,40 @@ Nguồn chính thức được mở và kiểm tra ngày 09/11/2026. Nhận đ�
 
 ### 4.1. Quy trình hiện tại
 
-Bản dưới đây gộp hai tình huống trong cluster để thảo luận. Thời lượng của từng nhánh chưa được đo thống nhất; số trong Problem Card phạm vi kiểm tra là ước lượng.
+Cluster này gồm hai tình huống khác nhau; tách quy trình và thời gian để không gộp baseline. Các phút dưới đây là ước lượng ghi trong Problem Card, chưa được đo độc lập.
 
-Sinh viên xác định bài kiểm tra hoặc chủ đề mới
-→ Mở slide, ghi chú, thông báo chính thức; hoặc tìm tài liệu trên web/cộng đồng
-→ Ghi các chủ đề và tài liệu có thể cần
-→ Đối chiếu phạm vi chính thức, độ liên quan, trình độ và độ tin cậy
-→ Ưu tiên nội dung, đánh dấu phần chưa rõ
-→ Chốt danh sách để bắt đầu học
+**Tình huống A — chốt phạm vi ôn kiểm tra (ước lượng 30 phút/lần):**
+
+1. Mở slide, ghi chú và thông báo lớp (4 phút).
+2. Ghi các chủ đề có thể cần ôn (7 phút).
+3. Đối chiếu chủ đề với thông báo chính thức (15 phút; bottleneck được nêu trong card).
+4. Chốt danh sách và đánh dấu phần chưa rõ (4 phút).
 
 | Bước | Actor | Input | Output | Thời gian / tần suất | Ghi chú |
 |---:|---|---|---|---|---|
-| 1 | Sinh viên | Môn học, bài kiểm tra hoặc chủ đề mới; mục tiêu học | Mục tiêu/phạm vi cần làm rõ | Chưa đo | Hai tình huống trong cluster có bối cảnh khác nhau |
-| 2 | Sinh viên | Slide, ghi chú, thông báo; hoặc nguồn học liệu | Bộ nguồn để xem xét | Chưa đo | Card phạm vi kiểm tra nêu ba nguồn |
-| 3 | Sinh viên | Bộ nguồn đã mở | Danh sách chủ đề/tài liệu có thể học | Chưa đo | Bước tạo danh sách trong card tìm tài liệu chưa có timer |
-| 4 | Sinh viên | Danh sách ứng viên và thông báo chính thức/tiêu chí học | Danh sách đã đối chiếu, phần chưa rõ | Khoảng 15 phút cho đối chiếu phạm vi theo giả định trong card; tổng chuẩn bị phạm vi khoảng 30 phút/lần theo ước lượng | Bottleneck của card phạm vi kiểm tra; chưa xác nhận bằng log |
-| 5 | Sinh viên; có thể hỏi giảng viên khi chưa rõ | Danh sách đã ưu tiên | Danh sách nội dung/tài liệu để bắt đầu học | Chưa đo | Không tự suy diễn phạm vi thi khi thông báo chưa rõ |
+| 1 | Sinh viên | Slide, ghi chú, thông báo lớp | Bộ nguồn để xem xét | 4 phút/lần (ước lượng) | Card nêu ba nguồn |
+| 2 | Sinh viên | Bộ nguồn | Danh sách chủ đề có thể cần ôn | 7 phút/lần (ước lượng) | Chưa ghi log bấm giờ |
+| 3 | Sinh viên | Danh sách chủ đề và thông báo chính thức | Danh sách đã đối chiếu | 15 phút/lần (ước lượng) | Bottleneck theo Problem Card |
+| 4 | Sinh viên | Danh sách đã đối chiếu | Danh sách chốt và mục cần hỏi | 4 phút/lần (ước lượng) | Mục chưa rõ được đánh dấu |
 
-**Bottleneck chính:** Đối chiếu chủ đề giữa slide/ghi chú và thông báo chính thức (khoảng 15 phút theo giả định). Ở tình huống học chủ đề mới, bottleneck được mô tả là quá nhiều nguồn, khó đánh giá độ tin cậy, trình độ và thứ tự học; chưa có thời lượng thực tế.
+**Tình huống B — tìm tài liệu cho chủ đề mới:** xác định chủ đề/mục tiêu → tìm nhiều nguồn → đánh giá độ tin cậy, trình độ và thứ tự kiến thức → chọn tài liệu phù hợp → bắt đầu học/điều chỉnh. Card mô tả khó khăn ở khâu lọc và xếp thứ tự tài liệu nhưng chưa có thời gian từng bước hoặc baseline tổng.
+
+| Bước | Actor | Input | Output | Thời gian / tần suất | Ghi chú |
+|---:|---|---|---|---|---|
+| 1 | Người học | Chủ đề mới và mục tiêu học | Phạm vi kiến thức cần học | Chưa đo | — |
+| 2 | Người học | Chủ đề và phạm vi cần học | Danh sách nguồn/tài liệu ứng viên | Chưa đo | Card nêu Google, YouTube, GitHub hoặc nền tảng học tập |
+| 3 | Người học | Mô tả và nội dung các tài liệu | Danh sách đã xem xét độ tin cậy, trình độ và thứ tự | Chưa đo | Bottleneck được mô tả nhưng chưa có timer |
+| 4 | Người học | Danh sách tài liệu đã xem xét | Tài liệu/lộ trình ban đầu để bắt đầu học | Chưa đo | Người học điều chỉnh nếu tài liệu không phù hợp |
+
+**Bottleneck:** Tình huống A là bước đối chiếu (15 phút ước lượng); tình huống B là sàng lọc nguồn và độ phù hợp nhưng thời gian chưa đo. Không dùng thời gian của A làm baseline cho B.
 
 ### 4.2. Quy trình tương lai — pilot No AI bằng checklist
 
-Sinh viên xác định bài kiểm tra/chủ đề và mục tiêu
-→ Gom thông báo chính thức, slide/ghi chú và danh sách nguồn được lớp chấp nhận
-→ Dùng checklist/bảng đối chiếu theo chủ đề, ghi link hoặc số trang nguồn
-→ Sinh viên kiểm tra đủ phạm vi; đánh dấu mục mơ hồ để hỏi giảng viên
-→ Với chủ đề mới, lọc danh sách học liệu theo chủ đề, trình độ, mục tiêu và nguồn gốc
-→ Sinh viên chốt danh sách và bắt đầu học
+**Pilot A — ôn kiểm tra:** mở thông báo chính thức → lập checklist chủ đề từ thông báo → gắn vị trí slide/ghi chú tương ứng → đánh dấu mục mơ hồ để hỏi giảng viên → sinh viên tự xác nhận danh sách.
 
-**Boundary:** Chỉ thông báo chính thức của giảng viên quyết định phạm vi kiểm tra. Checklist không tự thêm/bỏ chủ đề; không rõ thì đánh dấu và hỏi người dạy. Không đưa tài liệu cá nhân/lớp lên dịch vụ bên ngoài khi chưa được phép.
+**Pilot B — chủ đề mới:** xác định mục tiêu/trình độ → lập danh sách nguồn ứng viên → kiểm tra độ tin cậy, kiến thức tiên quyết và độ phù hợp → ghi căn cứ chọn tài liệu → sinh viên tự chốt lộ trình. Baseline và target thời gian cần đo riêng trước khi kết luận hiệu quả.
+
+**Boundary:** Với ôn thi, chỉ thông báo chính thức của giảng viên quyết định phạm vi; checklist không tự thêm/bỏ chủ đề, mục không rõ phải hỏi người dạy. Với chủ đề mới, người học tự xác nhận độ tin cậy, trình độ và mục tiêu phù hợp của tài liệu. Không đưa tài liệu cá nhân/lớp lên dịch vụ bên ngoài khi chưa được phép.
 
 **Phương án quay về:** Nếu checklist không giúp hoặc nguồn mâu thuẫn, quay lại đọc thông báo gốc, đối chiếu thủ công và hỏi giảng viên.
 
@@ -164,12 +169,13 @@ Sinh viên xác định bài kiểm tra/chủ đề và mục tiêu
 
 ### 4.3. Before / after
 
-| Chỉ số | Trước | Sau (kỳ vọng/pilot) | Ghi chú |
-|---|---:|---:|---|
-| Số bước | 4 bước trong card phạm vi; card tìm tài liệu có quy trình riêng | 5–6 bước theo quy trình gộp đề xuất | Chưa thể so trực tiếp trước khi nhóm thống nhất một tình huống đo |
-| Tổng thời gian | Khoảng 30 phút/lần cho phạm vi kiểm tra theo card; nhánh tìm tài liệu chưa có baseline | Mục tiêu thử ≤15 phút cho một lần chốt phạm vi | Mục tiêu từ card, chưa kiểm chứng; cần đo nhánh tài liệu riêng |
-| Số bước thủ công | Các bước hiện tại đều do sinh viên làm | Phần lớn vẫn do sinh viên làm; checklist chỉ chuẩn hóa đối chiếu | Không tuyên bố đã giảm thao tác khi chưa thử |
-| Bottleneck chính | Đối chiếu khoảng 15 phút theo giả định; chọn nguồn phù hợp chưa đo | Kiểm tra độ đầy đủ và xử lý điểm chưa rõ | Cần đo trong pilot |
+| Tình huống / chỉ số | Trước | Sau (kỳ vọng/pilot) | Ghi chú |
+|---|---|---|---|
+| A — Chốt phạm vi ôn thi | 4 bước; tổng khoảng 30 phút/lần theo ước lượng trong card (4 + 7 + 15 + 4 phút) | Checklist theo thông báo chính thức; mục tiêu thử ≤15 phút/lần | Chưa pilot; giữ điều kiện bao phủ đủ mọi mục rõ trong thông báo và đánh dấu mục cần hỏi |
+| B — Tìm tài liệu chủ đề mới | Tìm nhiều nguồn, lọc độ tin cậy/trình độ/thứ tự; baseline thời gian chưa đo | Dùng tiêu chí sàng lọc và ghi nguồn; chưa đặt target thời gian | Đo baseline riêng trước khi đặt target; không suy ra từ tình huống A |
+| Số bước | Các bước hiện tại do sinh viên thực hiện | Checklist chuẩn hóa việc đối chiếu; chưa biết có giảm bước hay không | Cần kiểm tra qua pilot |
+| Thao tác thủ công | Sinh viên tự tìm, ghi và đối chiếu | Sinh viên vẫn xác nhận từng mục; checklist chuẩn hóa việc đối chiếu | Chưa có bằng chứng giảm thao tác trước khi pilot |
+| Bottleneck chính | A: đối chiếu khoảng 15 phút theo giả định. B: chọn nguồn phù hợp, chưa đo | A: kiểm tra đủ phạm vi và xử lý mục chưa rõ. B: sàng lọc theo tiêu chí | Cần đo từng tình huống trong pilot |
 | Rủi ro mới phát sinh | Có thể ôn thiếu/thừa hoặc chọn nguồn không phù hợp | Checklist cũ/thiếu; nguồn không đáng tin; sinh viên quá tin vào danh sách | Giảm bằng nguồn chính thức, link truy xuất và bước người học kiểm tra |
 
 ---
@@ -283,7 +289,7 @@ Theo worksheet, không bắt buộc điền PAIR khi chọn No AI. Lý do: pilot
 
 ## 9. Hạn chế và hướng tiếp theo
 
-- **CP3 chưa được nhóm xác nhận đầy đủ:** bảng pitch hiện tổng hợp 9 Problem Card cá nhân làm đầu vào; câu hỏi phản biện, cluster cuối cùng, OST và bảng chấm điểm cần được nhóm hoàn tất sau khi thảo luận trực tiếp.
+- **CP3 đã chốt candidate B:** bảng pitch tổng hợp 9 Problem Card; nhóm thống nhất cluster học tập và điểm shortlist. Đã ghi lại hai ý phản biện của Hồ Trọng Nghĩa theo dạng diễn ý; các câu hỏi của những lượt pitch khác chưa được lưu. Pain và thời lượng vẫn chưa được kiểm chứng độc lập.
 - **Chưa có kiểm chứng người dùng:** chưa phỏng vấn hoặc khảo sát sinh viên ngoài nhóm. Các nhận định về tần suất, mức độ khó và tác động hiện chưa đại diện cho người học khác.
 - **Số liệu thời gian phần lớn là ước lượng:** mốc khoảng 30 phút/lần và bottleneck đối chiếu khoảng 15 phút/lần đến từ Problem Card về phạm vi ôn kiểm tra; chưa có log bấm giờ. Nhánh tìm tài liệu cho chủ đề mới chưa có baseline, nên không gộp hai tình huống để tuyên bố mức giảm thời gian.
 - **Research giải pháp không chứng minh nhu cầu:** nguồn sản phẩm được dùng để hiểu khả năng và khoảng trống tương đối của công cụ, không thay thế phỏng vấn hay thử nghiệm với người học.

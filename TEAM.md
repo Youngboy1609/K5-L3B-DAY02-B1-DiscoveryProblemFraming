@@ -34,22 +34,28 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 
 ## Cá nhân
 
-Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `HoVaTen-MSSV`.
+Mỗi thành viên tự điền mục của mình theo mẫu dưới đây, tiêu đề là `HoVaTen-MSSV`.
 
-### HoVaTen-MSSV
+### HoTrongNghia-2A202603729
 
 **Phần việc phụ trách:**
 
--
+- CP1–CP2: ghi nhận trải nghiệm cá nhân, lập 5 problem và phát triển 3 Problem Card.
+- CP3: đưa card review tuần vào pitch, tham gia phân cụm/OST và thống nhất chọn cluster sinh viên xác định nội dung, tài liệu học từ nhiều nguồn.
+- CP4–CP6: cùng hoàn thiện research giải pháp, quy trình và Problem Statement; phụ trách chính phần CP6 — đánh giá rủi ro và quyết định.
 
 **Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
 
--
+- Cung cấp số liệu và bối cảnh từ trải nghiệm thật; cùng nhóm xác định các giả định/thời lượng chưa được kiểm chứng.
+- Dùng AI hỗ trợ cấu trúc báo cáo, tổng hợp research từ nguồn chính thức, soạn quy trình/bảng before–after và sơ đồ; rà lại để giữ các giới hạn, phương án No AI và quyết định Not Yet rõ ràng.
+- Tham gia chọn checklist No AI làm pilot đề xuất; chưa thực hiện phỏng vấn hoặc pilot thực tế.
 
 **Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
 
--
+- `report/individual/2A202603729_HoTrongNghia.md` — CP1, CP2, nhật ký tham gia, bảng dùng AI và CP7.
+- `report/team/group_report.md` — CP3–CP6 và quyết định; `report/assets/cp5-workflow-before-after.svg` — sơ đồ CP5.
+- Các commit đã push: `a9642da` và `39d0a22`. Các chỉnh sửa hiện tại chưa commit.
 
 **Điều mình học được từ phần nhóm:**
 
--
+- Cần tách quan sát và ước lượng khỏi dữ liệu đã đo; một cluster có thể gồm các tình huống khác nhau nên phải đo riêng. Nên xác nhận pain với người dùng và thử giải pháp đơn giản trước khi kết luận cần AI.
