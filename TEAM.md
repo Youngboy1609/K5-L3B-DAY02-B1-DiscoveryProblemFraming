@@ -78,3 +78,26 @@ Mỗi thành viên tự điền mục của mình theo mẫu dưới đây, tiê
 **Điều mình học được từ phần nhóm:**
 
 - Cách teamwork, góc nhìn nhận vấn đề từ nhiều phía 
+
+### NguyenMinhQuan-2A202603794
+
+**Phần việc phụ trách:**
+
+- CP1–CP2: Liệt kê 5 vấn đề, chọn 3 vấn đề để viết Problem Card và vẽ quy trình nháp.
+- CP3: Hỗ trợ gom các vấn đề theo nhóm, lập cây OST và so sánh các ứng viên.
+- CP4–CP6: Phụ trách chính phần kiểm chứng và Problem Statement v0. Hỗ trợ so sánh các mức can thiệp và cập nhật Problem Statement v1.
+
+**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+
+- Chuẩn bị bảng 5 giả định và kế hoạch phỏng vấn sinh viên ngoài nhóm về lần gần nhất họ xác định phạm vi ôn kiểm tra. Tập trung hỏi họ đã dùng những nguồn nào, mất thời gian ở bước nào và có phải hỏi lại hoặc từng bỏ sót chủ đề không.
+- Đề xuất đo riêng thời gian tìm tài liệu và thời gian đối chiếu nội dung. Khi rà soát Problem Statement, tôi chú ý hai tiêu chí là thời gian chốt danh sách ôn và mức độ đầy đủ của danh sách so với thông báo chính thức.
+- Hỗ trợ xem xét checklist theo thông báo chính thức như một phương án No AI để so sánh. Phần phỏng vấn và thử nghiệm mới ở mức chuẩn bị.
+
+**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+
+- `report/individual/2A202603794_NguyenMinhQuan.md` — CP1, CP2, nhật ký tham gia, bảng dùng AI và Reflection.
+- `report/team/group_report.md` — mục 3.1 và 3.2 ghi phần phân công kiểm chứng, bảng giả định và kế hoạch phỏng vấn.
+
+**Điều mình học được từ phần nhóm:**
+
+- Khi nghe một việc “mất nhiều thời gian”, tôi cần hỏi lần gần nhất người đó làm gì và mất bao lâu ở từng bước. Với bài của nhóm, tìm tài liệu và đối chiếu nội dung là hai việc khác nhau. Tách hai bước ra giúp tôi biết cần cải thiện chỗ nào và xem một checklist đơn giản có đủ hay không.
