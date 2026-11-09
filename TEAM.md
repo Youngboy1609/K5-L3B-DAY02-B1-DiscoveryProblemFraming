@@ -59,3 +59,22 @@ Mỗi thành viên tự điền mục của mình theo mẫu dưới đây, tiê
 **Điều mình học được từ phần nhóm:**
 
 - Cần tách quan sát và ước lượng khỏi dữ liệu đã đo; một cluster có thể gồm các tình huống khác nhau nên phải đo riêng. Nên xác nhận pain với người dùng và thử giải pháp đơn giản trước khi kết luận cần AI.
+
+### VuBaTungLam-2A202603775
+
+**Phần việc phụ trách:**
+
+- Hoàn thành CP1, CP2 theo yêu cầu của mỗi cá nhân
+- Hoàn thành CP3, CP6 phối hợp với các thành viên trong nhóm
+
+**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+
+- Đóng góp vào quy trình trước sau (before/after) và lập ma trận so sánh 4 mức, eval và Problem Statement v0, v1
+
+**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+
+-commit 96d85af
+
+**Điều mình học được từ phần nhóm:**
+
+- Cách teamwork, góc nhìn nhận vấn đề từ nhiều phía 
